@@ -3,5 +3,5 @@
     config: "{{ lookup('file', 'pipeline.xml') }}"
     name: test
     password: admin123
-    url: http:// 172.31.89.214:8080
+    url: http://172.31.89.214:8080
     user: admin
