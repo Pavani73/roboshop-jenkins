@@ -10,5 +10,6 @@
       - user
       - payment
       - dispatch
+      - frontend
   roles:
     - jenkins-jobs
