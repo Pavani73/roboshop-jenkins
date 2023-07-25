@@ -23,7 +23,7 @@
             <jenkins.branch.BranchSource>
                 <source class="jenkins.plugins.git.GitSCMSource" plugin="git@5.1.0">
                     <id>87575d4d-6d03-4bc4-a57b-7542e494ff92</id>
-                    <remote>https://github.com/pavani73/cart</remote>
+                    <remote>https://github.com/pavani73/{{item}}</remote>
                     <credentialsId></credentialsId>
                     <traits>
                         <jenkins.plugins.git.traits.BranchDiscoveryTrait/>
